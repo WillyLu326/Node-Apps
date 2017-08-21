@@ -1,3 +1,5 @@
 # Node-Apps
+A node application with basic and extensive node knowldege
 
-### Node apps
+### Author 
+Willy Lu
